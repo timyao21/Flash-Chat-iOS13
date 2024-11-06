@@ -9,8 +9,7 @@
 import UIKit
 // import firebase
 import FirebaseCore
-import FirebaseFirestore
-import FirebaseAuth
+
 
 
 @UIApplicationMain
