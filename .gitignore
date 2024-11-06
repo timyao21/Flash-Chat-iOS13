@@ -9,7 +9,7 @@
 
 # Ignore personal files and configurations
 .DS_Store
-GoogleService-Info.plist  # Add this to ignore your GoogleService info file
+Flash\ Chat\ iOS13/GoogleService-Info.plist
 
 # Ignore temporary files and logs
 *.log
