@@ -1,0 +1,16 @@
+# Ignore Xcode project files
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# Ignore build output
+/build/
+/DerivedData/
+
+# Ignore personal files and configurations
+.DS_Store
+GoogleService-Info.plist  # Add this to ignore your GoogleService info file
+
+# Ignore temporary files and logs
+*.log
+*.tmp
